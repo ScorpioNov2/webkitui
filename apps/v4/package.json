@@ -38,7 +38,7 @@
     "@hugeicons/react": "^1.1.1",
     "@paper-design/shaders-react": "^0.0.72",
     "@phosphor-icons/react": "^2.1.10",
-    "@remixicon/react": "^4.7.0",
+    "@remixicon/react": "^4.9.0",
     "@shadcn/react": "workspace:*",
     "@streamdown/code": "^1.1.1",
     "@tabler/icons-react": "^3.31.0",
